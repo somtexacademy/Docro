@@ -172,13 +172,13 @@ const app = Vue.createApp({
         "Mathematics": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
         "English Language": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
         "English Literature": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
-        "Hindi": [ { title: "No Pdf Yet.", link: "https://example.com/kavita.pdf" } ],
-        "Computer": [ { title: "No Pdf Yet.", link: "https://example.com/python.pdf" } ],
-        "Physics": [ { title: "No Pdf Yet.", link: "https://example.com/motion.pdf" } ],
-        "Chemistry": [ { title: "No Pdf Yet.", link: "https://example.com/organic.pdf" } ],
-        "Biology": [ { title: "No Pdf Yet.", link: "https://example.com/cell.pdf" } ],
-        "History": [ { title: "No Pdf Yet.", link: "https://example.com/india.pdf" } ],
-        "Geography": [ { title: "No Pdf Yet.", link: "https://example.com/map.pdf" } ],
+        "Hindi": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
+        "Computer": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
+        "Physics": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
+        "Chemistry": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
+        "Biology": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
+        "History": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
+        "Geography": [ { title: "No Pdf Yet.", link: "https://example.com/.pdf" } ],
         "Diary": [ { title: "No Pdf Yet.", link: "https://example.com/diary.pdf" } ]
       }
     }
